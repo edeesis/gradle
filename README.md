@@ -8,6 +8,8 @@ This project adheres to the [Gradle Code of Conduct](https://gradle.org/conduct/
 
 ## Downloading
 
+DOWNLOAD EVERYTHING
+
 You can download released versions and nightly build artifacts from: https://gradle.org/downloads
 
 ### Installing from source
